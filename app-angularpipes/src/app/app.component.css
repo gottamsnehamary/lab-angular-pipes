@@ -1,0 +1,36 @@
+.container {
+  margin-left: 20%;
+}
+
+header {
+  font-size: 25px;
+  background-color: orangered;
+  color: white;
+  widows: 100%;
+  height: 30px;
+
+}
+
+.feild {
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.event {
+  widows: 50%;
+  margin-top: 20px;
+  border: 1px solid white;
+  background-color: gainsboro;
+}
+
+button {
+  background-color: orangered;
+  color: white;
+  border: 1px solid orangered;
+  text-align: center;
+  padding: 2px;
+}
+
+p {
+  color: black;
+}
